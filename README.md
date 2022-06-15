@@ -1,0 +1,2 @@
+# studybuddy
+ Django Course
